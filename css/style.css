@@ -1,0 +1,58 @@
+body{
+    background-image: url('../images/gplaypattern.png');
+    background-attachment: fixed;
+    margin-top: 0;
+    margin-bottom:0;
+}
+
+.spacer{
+    height: 25px;
+}
+
+.content{
+    background: #CCCC99;
+    background-color:rgba(204,204,153,0.5);
+    font-family: 'Abel', sans-serif;
+    font-size: 34pt;
+}
+
+.content p{
+    margin-left: 10px;
+}
+
+.content h2{
+    margin: 10px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.content ol{
+    list-style-type: decimal;
+    margin-left: 50px;
+}
+
+.shadow {
+    -moz-box-shadow: 0px 0px 10px #000;
+	-webkit-box-shadow: 0px 0px 10px #000;
+	box-shadow: 0px 0px 10px #000;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner{
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 12pt;
+    color: #630D0D;
+}
+
+img.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
