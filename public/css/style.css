@@ -16,6 +16,20 @@ body{
     font-size: 34pt;
 }
 
+.roundedBorder{
+    border-radius: 10px 10px 10px 10px;
+    background: #e6d3b3;
+}
+
+.content a{
+    text-decoration: none;
+    color: black;
+}
+
+a.roundedBorder:hover{
+    color: #ffffff;
+}
+
 .content p{
     margin-left: 10px;
 }
@@ -55,4 +69,10 @@ img.logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.footer{
+    font-size: 12pt;
+    margin-bottom: 5px;
+    margin-top: 200px;
 }
