@@ -1,0 +1,176 @@
+{
+	"entries":[
+		{
+			"img" : "images/games/tactics.png",
+			"title" : "Tactics Ensemble",
+			"team"	: "Anomalous Underdog",
+			"info" 	: "The combat system of a turn-based, tactical role-playing game, with the goal of incorporating fighting game mechanics.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/lightdark.png",
+			"title" : "Light + Dark",
+			"team"	: "Cabana Brothers",
+			"info" 	: "2D platformer exploring the interplay between light and dark.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/fufu.png",
+			"title" : "Fusion Tanks",
+			"team"	: "FuFu Labs",
+			"info" 	: "Turn based artillery/worm-like with accurate physics, destructible terrain and tons of weapons.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/dotd.png",
+			"title" : "Day of the Dead",
+			"team"	: "FunGuy Studio",
+			"info" 	: "You play as a overseeing necromancer who is trying to spread his zombie infection across Mexico. There is a young siren with a painted face that will teach you the ways of raising the dead and guiding you through the game.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/gn001.png",
+			"title" : "Wizard's Quest",
+			"team"	: "GN001",
+			"info" 	: "Themed around Mu Online, an online MMORPG with arts and assets borrowed and credited from the game. Wizard's Quest will focus on LAN/Networking hack & slash leveling-up game play.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : "http://tarrent.webs.com/wizardsquest/"
+		},
+		{
+			"img" : "images/games/hungry.png",
+			"title" : "Hungry Game",
+			"team"	: "GT2",
+			"info" 	: "Get recipes, gather ingredients, cook and rule the world in this 2D platformer.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/netvoid.png",
+			"title" : "NetVoid",
+			"team"	: "hEOLiX",
+			"info" 	: "2D platformer game where you get to defeat a virus that came from the government where it tries to destroy the internet",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/schoolbattle.png",
+			"title" : "School Battle",
+			"team"	: "Julius Agcopra II",
+			"info" 	: "Study your lessons, reach the top rank of the player's school and defend the school from other school invasion.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/rose.png",
+			"title" : "House of Rose",
+			"team"	: "MrValdez",
+			"info" 	: "A visual novel about Richard, his girlfriend Ingrid, his best friend Joshua, Ingrid's sister Rose and an unnamed blind girl who will experience a wide range of emotions.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/catcha.png",
+			"title" : "CatCha",
+			"team"	: "Team Catcha",
+			"info" 	: "A game about catching cats. The game is about Grandma who has a cat. Her cat was abducted by an alien and created a million clones of it. Grandma has poor eye sight so she has to catch the cat before she knew it was the right one. The end.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/starburns.png",
+			"title" : "StarBurns",
+			"team"	: "RMKB",
+			"info" 	: "Two players place bases at opposing corners of a piece of paper, and from there, launch an armada of ships with paths directed by the flick of the pen.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/studiostycoon.png",
+			"title" : "Studios Tycoon",
+			"team"	: "Skripted!",
+			"info" 	: "Create your own studio from scratch! Buy scripts, hire actors, choose your locations to create the best selling film you could possibly achieve. Strategize and budget your way up to stardom!",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/smack.png",
+			"title" : "Smack!",
+			"team"	: "Smack Dev Team",
+			"info" 	: "Official demo of a yet-another-foss 2D game engine, we wrote, called Quixie.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/antfarm.png",
+			"title" : "Antfarm",
+			"team"	: "Team Antfarm",
+			"info" 	: "Digital-Ant-Aquarium-like game for tablet devices",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/skrimmage.png",
+			"title" : "Skrimmage",
+			"team"	: "Team BooMer",
+			"info" 	: "Control robots in a 3D multiplayer online brawler",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/skrape.png",
+			"title" : "Skrap-E",
+			"team"	: "The Damgoo Project",
+			"info" 	: "A space battle game with a mashup of time management and tower defense mechanics.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/thebridge.png",
+			"title" : "The Bridge",
+			"team"	: "The December Project",
+			"info" 	: "You take the role of the man who lives on the other side of the cliff. With no other way to reach the woman on the other side, he is, for a long time, content with just staring at the house where she lives. But one day a strange letter appears on his doorstep, a letter with nothing on it but a doodle of the two houses on each side of the cliff. A short instruction is written at the bottom: &quot;Find the words, and the bridge will follow.&quot; ",
+			"type" : "Download",
+			"url" : "http://project12.savepoint.ph/games/thebridge/",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/infinityroad.png",
+			"title" : "Infinity Road",
+			"team"	: "The Full Mana",
+			"info" 	: "Manage your heroes as they defend an endless horde of monsters.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		},
+		{
+			"img" : "images/games/roguestory.png",
+			"title" : "Rogue Story",
+			"team"	: "tusongtupa",
+			"info" 	: "A typical roguelike, with typical roguelike elements. Except that it is a startup too.",
+			"type" : "Download",
+			"url" : "http://",
+			"website" : ""
+		}
+		
+	]
+}
