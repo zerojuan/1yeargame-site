@@ -1,8 +1,21 @@
 body{
     background-image: url('../images/gplaypattern.png');
     background-attachment: fixed;
-    margin-top: 0;
-    margin-bottom:0;
+    margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: #D01919;
+}
+
+h1, h2, h3{
+	margin: 0px;
+}
+
+h2{
+	font-size: 1.5em;
+	font-weight: normal;
 }
 
 .spacer{
@@ -14,20 +27,6 @@ body{
     background-color:rgba(204,204,153,0.5);
     font-family: 'Abel', sans-serif;
     font-size: 34pt;
-}
-
-.roundedBorder{
-    border-radius: 10px 10px 10px 10px;
-    background: #e6d3b3;
-}
-
-.content a{
-    text-decoration: none;
-    color: black;
-}
-
-a.roundedBorder:hover{
-    color: #ffffff;
 }
 
 .content p{
@@ -46,9 +45,9 @@ a.roundedBorder:hover{
 }
 
 .shadow {
-    -moz-box-shadow: 0px 0px 10px #000;
-	-webkit-box-shadow: 0px 0px 10px #000;
-	box-shadow: 0px 0px 10px #000;
+    -moz-box-shadow: 0px 0px 8px #ccc;
+	-webkit-box-shadow: 0px 0px 8px #ccc;
+	box-shadow: 0px 0px 8px #ccc;
 	/* For IE 8 */
 	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
 	/* For IE 5.5 - 7 */
@@ -71,8 +70,109 @@ img.logo{
     margin-right: auto;
 }
 
-.footer{
-    font-size: 12pt;
-    margin-bottom: 5px;
-    margin-top: 200px;
+
+/*================================================
+ * Gallery style
+ * ===============================================
+ */
+
+.clear{
+	display: block;
+	clear: both;
+}
+
+.banner{
+	height: 250px;
+}
+
+.games{
+	margin-top: 30px;
+	font-family: 'Abel', sans-serif;
+}
+
+.game{
+	width: 300px;
+	height: 230px;
+	float: left;
+	padding: 10px;
+	margin-top: 20px;
+	position: relative;
+	transition: all .25s ease-out;
+	-o-transition: all .25s ease-out;
+	-moz-transition: all .25s ease-out;
+	-webkit-transition: all .25s ease-out;
+}
+	.game:hover{
+		background: #f0f0f0;
+	}
+
+.game h3{
+	padding: 0;
+	font-size: 1.1em;
+}
+
+.game p{
+	margin: 0;
+	font-size: 0.9em;
+	color: #888;
+}
+
+.focus{
+	color: #ccc;
+	background: #222;
+	box-shadow: 0 1px 15px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 1px 15px rgba(0, 0, 0, 0.5);
+}
+	.focus:hover{
+		background: #222;
+	}
+
+
+.meta{
+	width: 250px;
+	height: 34px;
+	float: left;
+}
+
+.info{
+	width: 300px;
+	padding: 0 10px 10px 10px;
+	position: absolute;
+	z-index: 100;
+	left: 0;
+	top: 240px;
+	background: #222;
+	box-shadow: 0 1px 3px rgba(0,0,0, .5);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.game:hover .vote-icon{
+	box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.5);
+}
+
+.info p{
+	color: #cccccc;
+}
+
+.vote-icon{
+	width: 35px;
+	height: 35px;	
+	float: right;
+	cursor: pointer;
+	background: #f0f0f0;
+	font-size: 1em;	
+	font-family: arial;
+	text-align: center;	
+}
+	.vote-icon div{
+		margin-top: .5em;
+	}
+	
+	.focus .vote-icon{
+		color: #222222;		
+	}
+
+.vote-icon img{
+	
 }
